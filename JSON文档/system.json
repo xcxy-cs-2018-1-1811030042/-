@@ -1,0 +1,12 @@
+{
+  "RECORDS": [
+    {
+      "id": "1",
+      "schoolName": "朝阳中学",
+      "forbidTeacher": "0",
+      "forbidStudent": "0",
+      "noticeTeacher": "请各科任教师尽快登记此次期末考试成绩！！",
+      "noticeStudent": "寒假于1月18日开始放假，2月20日开学，2月21日正式行课！！！同学们寒假快乐，新年快乐！！！"
+    }
+  ]
+}

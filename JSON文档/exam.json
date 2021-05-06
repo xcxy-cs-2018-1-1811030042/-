@@ -1,0 +1,24 @@
+{
+  "RECORDS": [
+    {
+      "id": "1",
+      "name": "朝阳中学第三次会考",
+      "time": "2016/01/15",
+      "remark": "请科任老师尽快登记成绩",
+      "type": "1",
+      "gradeid": "1",
+      "clazzid": "0",
+      "courseid": "0"
+    },
+    {
+      "id": "2",
+      "name": "1班语文测试",
+      "time": "2016/01/15",
+      "remark": "第五单元测试",
+      "type": "2",
+      "gradeid": "1",
+      "clazzid": "1",
+      "courseid": "1"
+    }
+  ]
+}

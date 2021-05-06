@@ -1,0 +1,69 @@
+{
+  "RECORDS": [
+    {
+      "id": "1",
+      "name": "1班",
+      "gradeid": "1"
+    },
+    {
+      "id": "2",
+      "name": "2班",
+      "gradeid": "1"
+    },
+    {
+      "id": "3",
+      "name": "3班",
+      "gradeid": "1"
+    },
+    {
+      "id": "4",
+      "name": "4班",
+      "gradeid": "1"
+    },
+    {
+      "id": "5",
+      "name": "1班",
+      "gradeid": "2"
+    },
+    {
+      "id": "6",
+      "name": "2班",
+      "gradeid": "2"
+    },
+    {
+      "id": "7",
+      "name": "3班",
+      "gradeid": "2"
+    },
+    {
+      "id": "8",
+      "name": "4班",
+      "gradeid": "2"
+    },
+    {
+      "id": "9",
+      "name": "1班",
+      "gradeid": "3"
+    },
+    {
+      "id": "10",
+      "name": "2班",
+      "gradeid": "3"
+    },
+    {
+      "id": "11",
+      "name": "3班",
+      "gradeid": "3"
+    },
+    {
+      "id": "12",
+      "name": "4班",
+      "gradeid": "3"
+    },
+    {
+      "id": "13",
+      "name": "5班",
+      "gradeid": "3"
+    }
+  ]
+}

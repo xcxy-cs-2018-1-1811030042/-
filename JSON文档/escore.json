@@ -1,0 +1,2011 @@
+{
+  "RECORDS": [
+    {
+      "id": "1",
+      "examid": "1",
+      "clazzid": "1",
+      "studentid": "1",
+      "gradeid": "1",
+      "courseid": "1",
+      "score": "123"
+    },
+    {
+      "id": "2",
+      "examid": "1",
+      "clazzid": "1",
+      "studentid": "1",
+      "gradeid": "1",
+      "courseid": "2",
+      "score": "56"
+    },
+    {
+      "id": "3",
+      "examid": "1",
+      "clazzid": "1",
+      "studentid": "1",
+      "gradeid": "1",
+      "courseid": "3",
+      "score": "67"
+    },
+    {
+      "id": "4",
+      "examid": "1",
+      "clazzid": "1",
+      "studentid": "1",
+      "gradeid": "1",
+      "courseid": "4",
+      "score": "78"
+    },
+    {
+      "id": "5",
+      "examid": "1",
+      "clazzid": "1",
+      "studentid": "1",
+      "gradeid": "1",
+      "courseid": "5",
+      "score": "54"
+    },
+    {
+      "id": "6",
+      "examid": "1",
+      "clazzid": "1",
+      "studentid": "2",
+      "gradeid": "1",
+      "courseid": "1",
+      "score": ""
+    },
+    {
+      "id": "7",
+      "examid": "1",
+      "clazzid": "1",
+      "studentid": "2",
+      "gradeid": "1",
+      "courseid": "2",
+      "score": "67"
+    },
+    {
+      "id": "8",
+      "examid": "1",
+      "clazzid": "1",
+      "studentid": "2",
+      "gradeid": "1",
+      "courseid": "3",
+      "score": "120"
+    },
+    {
+      "id": "9",
+      "examid": "1",
+      "clazzid": "1",
+      "studentid": "2",
+      "gradeid": "1",
+      "courseid": "4",
+      "score": "76"
+    },
+    {
+      "id": "10",
+      "examid": "1",
+      "clazzid": "1",
+      "studentid": "2",
+      "gradeid": "1",
+      "courseid": "5",
+      "score": "78"
+    },
+    {
+      "id": "11",
+      "examid": "1",
+      "clazzid": "1",
+      "studentid": "3",
+      "gradeid": "1",
+      "courseid": "1",
+      "score": "67"
+    },
+    {
+      "id": "12",
+      "examid": "1",
+      "clazzid": "1",
+      "studentid": "3",
+      "gradeid": "1",
+      "courseid": "2",
+      "score": "87"
+    },
+    {
+      "id": "13",
+      "examid": "1",
+      "clazzid": "1",
+      "studentid": "3",
+      "gradeid": "1",
+      "courseid": "3",
+      "score": "66"
+    },
+    {
+      "id": "14",
+      "examid": "1",
+      "clazzid": "1",
+      "studentid": "3",
+      "gradeid": "1",
+      "courseid": "4",
+      "score": "56"
+    },
+    {
+      "id": "15",
+      "examid": "1",
+      "clazzid": "1",
+      "studentid": "3",
+      "gradeid": "1",
+      "courseid": "5",
+      "score": "88"
+    },
+    {
+      "id": "16",
+      "examid": "1",
+      "clazzid": "1",
+      "studentid": "4",
+      "gradeid": "1",
+      "courseid": "1",
+      "score": "89"
+    },
+    {
+      "id": "17",
+      "examid": "1",
+      "clazzid": "1",
+      "studentid": "4",
+      "gradeid": "1",
+      "courseid": "2",
+      "score": "34"
+    },
+    {
+      "id": "18",
+      "examid": "1",
+      "clazzid": "1",
+      "studentid": "4",
+      "gradeid": "1",
+      "courseid": "3",
+      "score": "55"
+    },
+    {
+      "id": "19",
+      "examid": "1",
+      "clazzid": "1",
+      "studentid": "4",
+      "gradeid": "1",
+      "courseid": "4",
+      "score": "90"
+    },
+    {
+      "id": "20",
+      "examid": "1",
+      "clazzid": "1",
+      "studentid": "4",
+      "gradeid": "1",
+      "courseid": "5",
+      "score": "90"
+    },
+    {
+      "id": "21",
+      "examid": "1",
+      "clazzid": "1",
+      "studentid": "5",
+      "gradeid": "1",
+      "courseid": "1",
+      "score": "99"
+    },
+    {
+      "id": "22",
+      "examid": "1",
+      "clazzid": "1",
+      "studentid": "5",
+      "gradeid": "1",
+      "courseid": "2",
+      "score": "89"
+    },
+    {
+      "id": "23",
+      "examid": "1",
+      "clazzid": "1",
+      "studentid": "5",
+      "gradeid": "1",
+      "courseid": "3",
+      "score": "142"
+    },
+    {
+      "id": "24",
+      "examid": "1",
+      "clazzid": "1",
+      "studentid": "5",
+      "gradeid": "1",
+      "courseid": "4",
+      "score": "66"
+    },
+    {
+      "id": "25",
+      "examid": "1",
+      "clazzid": "1",
+      "studentid": "5",
+      "gradeid": "1",
+      "courseid": "5",
+      "score": "79"
+    },
+    {
+      "id": "26",
+      "examid": "1",
+      "clazzid": "1",
+      "studentid": "6",
+      "gradeid": "1",
+      "courseid": "1",
+      "score": "109"
+    },
+    {
+      "id": "27",
+      "examid": "1",
+      "clazzid": "1",
+      "studentid": "6",
+      "gradeid": "1",
+      "courseid": "2",
+      "score": "90"
+    },
+    {
+      "id": "28",
+      "examid": "1",
+      "clazzid": "1",
+      "studentid": "6",
+      "gradeid": "1",
+      "courseid": "3",
+      "score": "90"
+    },
+    {
+      "id": "29",
+      "examid": "1",
+      "clazzid": "1",
+      "studentid": "6",
+      "gradeid": "1",
+      "courseid": "4",
+      "score": "78"
+    },
+    {
+      "id": "30",
+      "examid": "1",
+      "clazzid": "1",
+      "studentid": "6",
+      "gradeid": "1",
+      "courseid": "5",
+      "score": "65"
+    },
+    {
+      "id": "31",
+      "examid": "1",
+      "clazzid": "1",
+      "studentid": "7",
+      "gradeid": "1",
+      "courseid": "1",
+      "score": "45"
+    },
+    {
+      "id": "32",
+      "examid": "1",
+      "clazzid": "1",
+      "studentid": "7",
+      "gradeid": "1",
+      "courseid": "2",
+      "score": "45"
+    },
+    {
+      "id": "33",
+      "examid": "1",
+      "clazzid": "1",
+      "studentid": "7",
+      "gradeid": "1",
+      "courseid": "3",
+      "score": "67"
+    },
+    {
+      "id": "34",
+      "examid": "1",
+      "clazzid": "1",
+      "studentid": "7",
+      "gradeid": "1",
+      "courseid": "4",
+      "score": "90"
+    },
+    {
+      "id": "35",
+      "examid": "1",
+      "clazzid": "1",
+      "studentid": "7",
+      "gradeid": "1",
+      "courseid": "5",
+      "score": "88"
+    },
+    {
+      "id": "36",
+      "examid": "1",
+      "clazzid": "1",
+      "studentid": "8",
+      "gradeid": "1",
+      "courseid": "1",
+      "score": "65"
+    },
+    {
+      "id": "37",
+      "examid": "1",
+      "clazzid": "1",
+      "studentid": "8",
+      "gradeid": "1",
+      "courseid": "2",
+      "score": "34"
+    },
+    {
+      "id": "38",
+      "examid": "1",
+      "clazzid": "1",
+      "studentid": "8",
+      "gradeid": "1",
+      "courseid": "3",
+      "score": "98"
+    },
+    {
+      "id": "39",
+      "examid": "1",
+      "clazzid": "1",
+      "studentid": "8",
+      "gradeid": "1",
+      "courseid": "4",
+      "score": "98"
+    },
+    {
+      "id": "40",
+      "examid": "1",
+      "clazzid": "1",
+      "studentid": "8",
+      "gradeid": "1",
+      "courseid": "5",
+      "score": "45"
+    },
+    {
+      "id": "41",
+      "examid": "1",
+      "clazzid": "1",
+      "studentid": "9",
+      "gradeid": "1",
+      "courseid": "1",
+      "score": "67"
+    },
+    {
+      "id": "42",
+      "examid": "1",
+      "clazzid": "1",
+      "studentid": "9",
+      "gradeid": "1",
+      "courseid": "2",
+      "score": "56"
+    },
+    {
+      "id": "43",
+      "examid": "1",
+      "clazzid": "1",
+      "studentid": "9",
+      "gradeid": "1",
+      "courseid": "3",
+      "score": "69"
+    },
+    {
+      "id": "44",
+      "examid": "1",
+      "clazzid": "1",
+      "studentid": "9",
+      "gradeid": "1",
+      "courseid": "4",
+      "score": "67"
+    },
+    {
+      "id": "45",
+      "examid": "1",
+      "clazzid": "1",
+      "studentid": "9",
+      "gradeid": "1",
+      "courseid": "5",
+      "score": "97"
+    },
+    {
+      "id": "46",
+      "examid": "1",
+      "clazzid": "1",
+      "studentid": "10",
+      "gradeid": "1",
+      "courseid": "1",
+      "score": ""
+    },
+    {
+      "id": "47",
+      "examid": "1",
+      "clazzid": "1",
+      "studentid": "10",
+      "gradeid": "1",
+      "courseid": "2",
+      "score": "123"
+    },
+    {
+      "id": "48",
+      "examid": "1",
+      "clazzid": "1",
+      "studentid": "10",
+      "gradeid": "1",
+      "courseid": "3",
+      "score": "135"
+    },
+    {
+      "id": "49",
+      "examid": "1",
+      "clazzid": "1",
+      "studentid": "10",
+      "gradeid": "1",
+      "courseid": "4",
+      "score": "99"
+    },
+    {
+      "id": "50",
+      "examid": "1",
+      "clazzid": "1",
+      "studentid": "10",
+      "gradeid": "1",
+      "courseid": "5",
+      "score": "39"
+    },
+    {
+      "id": "51",
+      "examid": "1",
+      "clazzid": "1",
+      "studentid": "11",
+      "gradeid": "1",
+      "courseid": "1",
+      "score": "34"
+    },
+    {
+      "id": "52",
+      "examid": "1",
+      "clazzid": "1",
+      "studentid": "11",
+      "gradeid": "1",
+      "courseid": "2",
+      "score": "76"
+    },
+    {
+      "id": "53",
+      "examid": "1",
+      "clazzid": "1",
+      "studentid": "11",
+      "gradeid": "1",
+      "courseid": "3",
+      "score": "55"
+    },
+    {
+      "id": "54",
+      "examid": "1",
+      "clazzid": "1",
+      "studentid": "11",
+      "gradeid": "1",
+      "courseid": "4",
+      "score": "44"
+    },
+    {
+      "id": "55",
+      "examid": "1",
+      "clazzid": "1",
+      "studentid": "11",
+      "gradeid": "1",
+      "courseid": "5",
+      "score": "66"
+    },
+    {
+      "id": "56",
+      "examid": "1",
+      "clazzid": "1",
+      "studentid": "12",
+      "gradeid": "1",
+      "courseid": "1",
+      "score": "67"
+    },
+    {
+      "id": "57",
+      "examid": "1",
+      "clazzid": "1",
+      "studentid": "12",
+      "gradeid": "1",
+      "courseid": "2",
+      "score": "90"
+    },
+    {
+      "id": "58",
+      "examid": "1",
+      "clazzid": "1",
+      "studentid": "12",
+      "gradeid": "1",
+      "courseid": "3",
+      "score": "99"
+    },
+    {
+      "id": "59",
+      "examid": "1",
+      "clazzid": "1",
+      "studentid": "12",
+      "gradeid": "1",
+      "courseid": "4",
+      "score": "67"
+    },
+    {
+      "id": "60",
+      "examid": "1",
+      "clazzid": "1",
+      "studentid": "12",
+      "gradeid": "1",
+      "courseid": "5",
+      "score": "98"
+    },
+    {
+      "id": "61",
+      "examid": "1",
+      "clazzid": "1",
+      "studentid": "13",
+      "gradeid": "1",
+      "courseid": "1",
+      "score": "55"
+    },
+    {
+      "id": "62",
+      "examid": "1",
+      "clazzid": "1",
+      "studentid": "13",
+      "gradeid": "1",
+      "courseid": "2",
+      "score": "87"
+    },
+    {
+      "id": "63",
+      "examid": "1",
+      "clazzid": "1",
+      "studentid": "13",
+      "gradeid": "1",
+      "courseid": "3",
+      "score": "68"
+    },
+    {
+      "id": "64",
+      "examid": "1",
+      "clazzid": "1",
+      "studentid": "13",
+      "gradeid": "1",
+      "courseid": "4",
+      "score": "76"
+    },
+    {
+      "id": "65",
+      "examid": "1",
+      "clazzid": "1",
+      "studentid": "13",
+      "gradeid": "1",
+      "courseid": "5",
+      "score": "45"
+    },
+    {
+      "id": "66",
+      "examid": "1",
+      "clazzid": "2",
+      "studentid": "14",
+      "gradeid": "1",
+      "courseid": "1",
+      "score": ""
+    },
+    {
+      "id": "67",
+      "examid": "1",
+      "clazzid": "2",
+      "studentid": "14",
+      "gradeid": "1",
+      "courseid": "2",
+      "score": ""
+    },
+    {
+      "id": "68",
+      "examid": "1",
+      "clazzid": "2",
+      "studentid": "14",
+      "gradeid": "1",
+      "courseid": "3",
+      "score": ""
+    },
+    {
+      "id": "69",
+      "examid": "1",
+      "clazzid": "2",
+      "studentid": "14",
+      "gradeid": "1",
+      "courseid": "4",
+      "score": ""
+    },
+    {
+      "id": "70",
+      "examid": "1",
+      "clazzid": "2",
+      "studentid": "14",
+      "gradeid": "1",
+      "courseid": "5",
+      "score": ""
+    },
+    {
+      "id": "71",
+      "examid": "1",
+      "clazzid": "2",
+      "studentid": "15",
+      "gradeid": "1",
+      "courseid": "1",
+      "score": ""
+    },
+    {
+      "id": "72",
+      "examid": "1",
+      "clazzid": "2",
+      "studentid": "15",
+      "gradeid": "1",
+      "courseid": "2",
+      "score": ""
+    },
+    {
+      "id": "73",
+      "examid": "1",
+      "clazzid": "2",
+      "studentid": "15",
+      "gradeid": "1",
+      "courseid": "3",
+      "score": ""
+    },
+    {
+      "id": "74",
+      "examid": "1",
+      "clazzid": "2",
+      "studentid": "15",
+      "gradeid": "1",
+      "courseid": "4",
+      "score": ""
+    },
+    {
+      "id": "75",
+      "examid": "1",
+      "clazzid": "2",
+      "studentid": "15",
+      "gradeid": "1",
+      "courseid": "5",
+      "score": ""
+    },
+    {
+      "id": "76",
+      "examid": "1",
+      "clazzid": "2",
+      "studentid": "16",
+      "gradeid": "1",
+      "courseid": "1",
+      "score": ""
+    },
+    {
+      "id": "77",
+      "examid": "1",
+      "clazzid": "2",
+      "studentid": "16",
+      "gradeid": "1",
+      "courseid": "2",
+      "score": ""
+    },
+    {
+      "id": "78",
+      "examid": "1",
+      "clazzid": "2",
+      "studentid": "16",
+      "gradeid": "1",
+      "courseid": "3",
+      "score": ""
+    },
+    {
+      "id": "79",
+      "examid": "1",
+      "clazzid": "2",
+      "studentid": "16",
+      "gradeid": "1",
+      "courseid": "4",
+      "score": ""
+    },
+    {
+      "id": "80",
+      "examid": "1",
+      "clazzid": "2",
+      "studentid": "16",
+      "gradeid": "1",
+      "courseid": "5",
+      "score": ""
+    },
+    {
+      "id": "81",
+      "examid": "1",
+      "clazzid": "2",
+      "studentid": "17",
+      "gradeid": "1",
+      "courseid": "1",
+      "score": ""
+    },
+    {
+      "id": "82",
+      "examid": "1",
+      "clazzid": "2",
+      "studentid": "17",
+      "gradeid": "1",
+      "courseid": "2",
+      "score": ""
+    },
+    {
+      "id": "83",
+      "examid": "1",
+      "clazzid": "2",
+      "studentid": "17",
+      "gradeid": "1",
+      "courseid": "3",
+      "score": ""
+    },
+    {
+      "id": "84",
+      "examid": "1",
+      "clazzid": "2",
+      "studentid": "17",
+      "gradeid": "1",
+      "courseid": "4",
+      "score": ""
+    },
+    {
+      "id": "85",
+      "examid": "1",
+      "clazzid": "2",
+      "studentid": "17",
+      "gradeid": "1",
+      "courseid": "5",
+      "score": ""
+    },
+    {
+      "id": "86",
+      "examid": "1",
+      "clazzid": "2",
+      "studentid": "18",
+      "gradeid": "1",
+      "courseid": "1",
+      "score": ""
+    },
+    {
+      "id": "87",
+      "examid": "1",
+      "clazzid": "2",
+      "studentid": "18",
+      "gradeid": "1",
+      "courseid": "2",
+      "score": ""
+    },
+    {
+      "id": "88",
+      "examid": "1",
+      "clazzid": "2",
+      "studentid": "18",
+      "gradeid": "1",
+      "courseid": "3",
+      "score": ""
+    },
+    {
+      "id": "89",
+      "examid": "1",
+      "clazzid": "2",
+      "studentid": "18",
+      "gradeid": "1",
+      "courseid": "4",
+      "score": ""
+    },
+    {
+      "id": "90",
+      "examid": "1",
+      "clazzid": "2",
+      "studentid": "18",
+      "gradeid": "1",
+      "courseid": "5",
+      "score": ""
+    },
+    {
+      "id": "91",
+      "examid": "1",
+      "clazzid": "2",
+      "studentid": "19",
+      "gradeid": "1",
+      "courseid": "1",
+      "score": ""
+    },
+    {
+      "id": "92",
+      "examid": "1",
+      "clazzid": "2",
+      "studentid": "19",
+      "gradeid": "1",
+      "courseid": "2",
+      "score": ""
+    },
+    {
+      "id": "93",
+      "examid": "1",
+      "clazzid": "2",
+      "studentid": "19",
+      "gradeid": "1",
+      "courseid": "3",
+      "score": ""
+    },
+    {
+      "id": "94",
+      "examid": "1",
+      "clazzid": "2",
+      "studentid": "19",
+      "gradeid": "1",
+      "courseid": "4",
+      "score": ""
+    },
+    {
+      "id": "95",
+      "examid": "1",
+      "clazzid": "2",
+      "studentid": "19",
+      "gradeid": "1",
+      "courseid": "5",
+      "score": ""
+    },
+    {
+      "id": "96",
+      "examid": "1",
+      "clazzid": "2",
+      "studentid": "20",
+      "gradeid": "1",
+      "courseid": "1",
+      "score": ""
+    },
+    {
+      "id": "97",
+      "examid": "1",
+      "clazzid": "2",
+      "studentid": "20",
+      "gradeid": "1",
+      "courseid": "2",
+      "score": ""
+    },
+    {
+      "id": "98",
+      "examid": "1",
+      "clazzid": "2",
+      "studentid": "20",
+      "gradeid": "1",
+      "courseid": "3",
+      "score": ""
+    },
+    {
+      "id": "99",
+      "examid": "1",
+      "clazzid": "2",
+      "studentid": "20",
+      "gradeid": "1",
+      "courseid": "4",
+      "score": ""
+    },
+    {
+      "id": "100",
+      "examid": "1",
+      "clazzid": "2",
+      "studentid": "20",
+      "gradeid": "1",
+      "courseid": "5",
+      "score": ""
+    },
+    {
+      "id": "101",
+      "examid": "1",
+      "clazzid": "2",
+      "studentid": "21",
+      "gradeid": "1",
+      "courseid": "1",
+      "score": ""
+    },
+    {
+      "id": "102",
+      "examid": "1",
+      "clazzid": "2",
+      "studentid": "21",
+      "gradeid": "1",
+      "courseid": "2",
+      "score": ""
+    },
+    {
+      "id": "103",
+      "examid": "1",
+      "clazzid": "2",
+      "studentid": "21",
+      "gradeid": "1",
+      "courseid": "3",
+      "score": ""
+    },
+    {
+      "id": "104",
+      "examid": "1",
+      "clazzid": "2",
+      "studentid": "21",
+      "gradeid": "1",
+      "courseid": "4",
+      "score": ""
+    },
+    {
+      "id": "105",
+      "examid": "1",
+      "clazzid": "2",
+      "studentid": "21",
+      "gradeid": "1",
+      "courseid": "5",
+      "score": ""
+    },
+    {
+      "id": "106",
+      "examid": "1",
+      "clazzid": "2",
+      "studentid": "22",
+      "gradeid": "1",
+      "courseid": "1",
+      "score": ""
+    },
+    {
+      "id": "107",
+      "examid": "1",
+      "clazzid": "2",
+      "studentid": "22",
+      "gradeid": "1",
+      "courseid": "2",
+      "score": ""
+    },
+    {
+      "id": "108",
+      "examid": "1",
+      "clazzid": "2",
+      "studentid": "22",
+      "gradeid": "1",
+      "courseid": "3",
+      "score": ""
+    },
+    {
+      "id": "109",
+      "examid": "1",
+      "clazzid": "2",
+      "studentid": "22",
+      "gradeid": "1",
+      "courseid": "4",
+      "score": ""
+    },
+    {
+      "id": "110",
+      "examid": "1",
+      "clazzid": "2",
+      "studentid": "22",
+      "gradeid": "1",
+      "courseid": "5",
+      "score": ""
+    },
+    {
+      "id": "111",
+      "examid": "1",
+      "clazzid": "3",
+      "studentid": "23",
+      "gradeid": "1",
+      "courseid": "1",
+      "score": ""
+    },
+    {
+      "id": "112",
+      "examid": "1",
+      "clazzid": "3",
+      "studentid": "23",
+      "gradeid": "1",
+      "courseid": "2",
+      "score": ""
+    },
+    {
+      "id": "113",
+      "examid": "1",
+      "clazzid": "3",
+      "studentid": "23",
+      "gradeid": "1",
+      "courseid": "3",
+      "score": ""
+    },
+    {
+      "id": "114",
+      "examid": "1",
+      "clazzid": "3",
+      "studentid": "23",
+      "gradeid": "1",
+      "courseid": "4",
+      "score": ""
+    },
+    {
+      "id": "115",
+      "examid": "1",
+      "clazzid": "3",
+      "studentid": "23",
+      "gradeid": "1",
+      "courseid": "5",
+      "score": ""
+    },
+    {
+      "id": "116",
+      "examid": "1",
+      "clazzid": "3",
+      "studentid": "24",
+      "gradeid": "1",
+      "courseid": "1",
+      "score": ""
+    },
+    {
+      "id": "117",
+      "examid": "1",
+      "clazzid": "3",
+      "studentid": "24",
+      "gradeid": "1",
+      "courseid": "2",
+      "score": ""
+    },
+    {
+      "id": "118",
+      "examid": "1",
+      "clazzid": "3",
+      "studentid": "24",
+      "gradeid": "1",
+      "courseid": "3",
+      "score": ""
+    },
+    {
+      "id": "119",
+      "examid": "1",
+      "clazzid": "3",
+      "studentid": "24",
+      "gradeid": "1",
+      "courseid": "4",
+      "score": ""
+    },
+    {
+      "id": "120",
+      "examid": "1",
+      "clazzid": "3",
+      "studentid": "24",
+      "gradeid": "1",
+      "courseid": "5",
+      "score": ""
+    },
+    {
+      "id": "121",
+      "examid": "1",
+      "clazzid": "3",
+      "studentid": "25",
+      "gradeid": "1",
+      "courseid": "1",
+      "score": ""
+    },
+    {
+      "id": "122",
+      "examid": "1",
+      "clazzid": "3",
+      "studentid": "25",
+      "gradeid": "1",
+      "courseid": "2",
+      "score": ""
+    },
+    {
+      "id": "123",
+      "examid": "1",
+      "clazzid": "3",
+      "studentid": "25",
+      "gradeid": "1",
+      "courseid": "3",
+      "score": ""
+    },
+    {
+      "id": "124",
+      "examid": "1",
+      "clazzid": "3",
+      "studentid": "25",
+      "gradeid": "1",
+      "courseid": "4",
+      "score": ""
+    },
+    {
+      "id": "125",
+      "examid": "1",
+      "clazzid": "3",
+      "studentid": "25",
+      "gradeid": "1",
+      "courseid": "5",
+      "score": ""
+    },
+    {
+      "id": "126",
+      "examid": "1",
+      "clazzid": "3",
+      "studentid": "26",
+      "gradeid": "1",
+      "courseid": "1",
+      "score": ""
+    },
+    {
+      "id": "127",
+      "examid": "1",
+      "clazzid": "3",
+      "studentid": "26",
+      "gradeid": "1",
+      "courseid": "2",
+      "score": ""
+    },
+    {
+      "id": "128",
+      "examid": "1",
+      "clazzid": "3",
+      "studentid": "26",
+      "gradeid": "1",
+      "courseid": "3",
+      "score": ""
+    },
+    {
+      "id": "129",
+      "examid": "1",
+      "clazzid": "3",
+      "studentid": "26",
+      "gradeid": "1",
+      "courseid": "4",
+      "score": ""
+    },
+    {
+      "id": "130",
+      "examid": "1",
+      "clazzid": "3",
+      "studentid": "26",
+      "gradeid": "1",
+      "courseid": "5",
+      "score": ""
+    },
+    {
+      "id": "131",
+      "examid": "1",
+      "clazzid": "3",
+      "studentid": "27",
+      "gradeid": "1",
+      "courseid": "1",
+      "score": ""
+    },
+    {
+      "id": "132",
+      "examid": "1",
+      "clazzid": "3",
+      "studentid": "27",
+      "gradeid": "1",
+      "courseid": "2",
+      "score": ""
+    },
+    {
+      "id": "133",
+      "examid": "1",
+      "clazzid": "3",
+      "studentid": "27",
+      "gradeid": "1",
+      "courseid": "3",
+      "score": ""
+    },
+    {
+      "id": "134",
+      "examid": "1",
+      "clazzid": "3",
+      "studentid": "27",
+      "gradeid": "1",
+      "courseid": "4",
+      "score": ""
+    },
+    {
+      "id": "135",
+      "examid": "1",
+      "clazzid": "3",
+      "studentid": "27",
+      "gradeid": "1",
+      "courseid": "5",
+      "score": ""
+    },
+    {
+      "id": "136",
+      "examid": "1",
+      "clazzid": "3",
+      "studentid": "28",
+      "gradeid": "1",
+      "courseid": "1",
+      "score": ""
+    },
+    {
+      "id": "137",
+      "examid": "1",
+      "clazzid": "3",
+      "studentid": "28",
+      "gradeid": "1",
+      "courseid": "2",
+      "score": ""
+    },
+    {
+      "id": "138",
+      "examid": "1",
+      "clazzid": "3",
+      "studentid": "28",
+      "gradeid": "1",
+      "courseid": "3",
+      "score": ""
+    },
+    {
+      "id": "139",
+      "examid": "1",
+      "clazzid": "3",
+      "studentid": "28",
+      "gradeid": "1",
+      "courseid": "4",
+      "score": ""
+    },
+    {
+      "id": "140",
+      "examid": "1",
+      "clazzid": "3",
+      "studentid": "28",
+      "gradeid": "1",
+      "courseid": "5",
+      "score": ""
+    },
+    {
+      "id": "141",
+      "examid": "1",
+      "clazzid": "4",
+      "studentid": "29",
+      "gradeid": "1",
+      "courseid": "1",
+      "score": ""
+    },
+    {
+      "id": "142",
+      "examid": "1",
+      "clazzid": "4",
+      "studentid": "29",
+      "gradeid": "1",
+      "courseid": "2",
+      "score": ""
+    },
+    {
+      "id": "143",
+      "examid": "1",
+      "clazzid": "4",
+      "studentid": "29",
+      "gradeid": "1",
+      "courseid": "3",
+      "score": ""
+    },
+    {
+      "id": "144",
+      "examid": "1",
+      "clazzid": "4",
+      "studentid": "29",
+      "gradeid": "1",
+      "courseid": "4",
+      "score": ""
+    },
+    {
+      "id": "145",
+      "examid": "1",
+      "clazzid": "4",
+      "studentid": "29",
+      "gradeid": "1",
+      "courseid": "5",
+      "score": ""
+    },
+    {
+      "id": "146",
+      "examid": "1",
+      "clazzid": "4",
+      "studentid": "30",
+      "gradeid": "1",
+      "courseid": "1",
+      "score": ""
+    },
+    {
+      "id": "147",
+      "examid": "1",
+      "clazzid": "4",
+      "studentid": "30",
+      "gradeid": "1",
+      "courseid": "2",
+      "score": ""
+    },
+    {
+      "id": "148",
+      "examid": "1",
+      "clazzid": "4",
+      "studentid": "30",
+      "gradeid": "1",
+      "courseid": "3",
+      "score": ""
+    },
+    {
+      "id": "149",
+      "examid": "1",
+      "clazzid": "4",
+      "studentid": "30",
+      "gradeid": "1",
+      "courseid": "4",
+      "score": ""
+    },
+    {
+      "id": "150",
+      "examid": "1",
+      "clazzid": "4",
+      "studentid": "30",
+      "gradeid": "1",
+      "courseid": "5",
+      "score": ""
+    },
+    {
+      "id": "151",
+      "examid": "1",
+      "clazzid": "4",
+      "studentid": "31",
+      "gradeid": "1",
+      "courseid": "1",
+      "score": ""
+    },
+    {
+      "id": "152",
+      "examid": "1",
+      "clazzid": "4",
+      "studentid": "31",
+      "gradeid": "1",
+      "courseid": "2",
+      "score": ""
+    },
+    {
+      "id": "153",
+      "examid": "1",
+      "clazzid": "4",
+      "studentid": "31",
+      "gradeid": "1",
+      "courseid": "3",
+      "score": ""
+    },
+    {
+      "id": "154",
+      "examid": "1",
+      "clazzid": "4",
+      "studentid": "31",
+      "gradeid": "1",
+      "courseid": "4",
+      "score": ""
+    },
+    {
+      "id": "155",
+      "examid": "1",
+      "clazzid": "4",
+      "studentid": "31",
+      "gradeid": "1",
+      "courseid": "5",
+      "score": ""
+    },
+    {
+      "id": "156",
+      "examid": "1",
+      "clazzid": "4",
+      "studentid": "32",
+      "gradeid": "1",
+      "courseid": "1",
+      "score": ""
+    },
+    {
+      "id": "157",
+      "examid": "1",
+      "clazzid": "4",
+      "studentid": "32",
+      "gradeid": "1",
+      "courseid": "2",
+      "score": ""
+    },
+    {
+      "id": "158",
+      "examid": "1",
+      "clazzid": "4",
+      "studentid": "32",
+      "gradeid": "1",
+      "courseid": "3",
+      "score": ""
+    },
+    {
+      "id": "159",
+      "examid": "1",
+      "clazzid": "4",
+      "studentid": "32",
+      "gradeid": "1",
+      "courseid": "4",
+      "score": ""
+    },
+    {
+      "id": "160",
+      "examid": "1",
+      "clazzid": "4",
+      "studentid": "32",
+      "gradeid": "1",
+      "courseid": "5",
+      "score": ""
+    },
+    {
+      "id": "161",
+      "examid": "1",
+      "clazzid": "4",
+      "studentid": "33",
+      "gradeid": "1",
+      "courseid": "1",
+      "score": ""
+    },
+    {
+      "id": "162",
+      "examid": "1",
+      "clazzid": "4",
+      "studentid": "33",
+      "gradeid": "1",
+      "courseid": "2",
+      "score": ""
+    },
+    {
+      "id": "163",
+      "examid": "1",
+      "clazzid": "4",
+      "studentid": "33",
+      "gradeid": "1",
+      "courseid": "3",
+      "score": ""
+    },
+    {
+      "id": "164",
+      "examid": "1",
+      "clazzid": "4",
+      "studentid": "33",
+      "gradeid": "1",
+      "courseid": "4",
+      "score": ""
+    },
+    {
+      "id": "165",
+      "examid": "1",
+      "clazzid": "4",
+      "studentid": "33",
+      "gradeid": "1",
+      "courseid": "5",
+      "score": ""
+    },
+    {
+      "id": "166",
+      "examid": "1",
+      "clazzid": "4",
+      "studentid": "34",
+      "gradeid": "1",
+      "courseid": "1",
+      "score": ""
+    },
+    {
+      "id": "167",
+      "examid": "1",
+      "clazzid": "4",
+      "studentid": "34",
+      "gradeid": "1",
+      "courseid": "2",
+      "score": ""
+    },
+    {
+      "id": "168",
+      "examid": "1",
+      "clazzid": "4",
+      "studentid": "34",
+      "gradeid": "1",
+      "courseid": "3",
+      "score": ""
+    },
+    {
+      "id": "169",
+      "examid": "1",
+      "clazzid": "4",
+      "studentid": "34",
+      "gradeid": "1",
+      "courseid": "4",
+      "score": ""
+    },
+    {
+      "id": "170",
+      "examid": "1",
+      "clazzid": "4",
+      "studentid": "34",
+      "gradeid": "1",
+      "courseid": "5",
+      "score": ""
+    },
+    {
+      "id": "171",
+      "examid": "1",
+      "clazzid": "4",
+      "studentid": "35",
+      "gradeid": "1",
+      "courseid": "1",
+      "score": ""
+    },
+    {
+      "id": "172",
+      "examid": "1",
+      "clazzid": "4",
+      "studentid": "35",
+      "gradeid": "1",
+      "courseid": "2",
+      "score": ""
+    },
+    {
+      "id": "173",
+      "examid": "1",
+      "clazzid": "4",
+      "studentid": "35",
+      "gradeid": "1",
+      "courseid": "3",
+      "score": ""
+    },
+    {
+      "id": "174",
+      "examid": "1",
+      "clazzid": "4",
+      "studentid": "35",
+      "gradeid": "1",
+      "courseid": "4",
+      "score": ""
+    },
+    {
+      "id": "175",
+      "examid": "1",
+      "clazzid": "4",
+      "studentid": "35",
+      "gradeid": "1",
+      "courseid": "5",
+      "score": ""
+    },
+    {
+      "id": "176",
+      "examid": "1",
+      "clazzid": "4",
+      "studentid": "36",
+      "gradeid": "1",
+      "courseid": "1",
+      "score": ""
+    },
+    {
+      "id": "177",
+      "examid": "1",
+      "clazzid": "4",
+      "studentid": "36",
+      "gradeid": "1",
+      "courseid": "2",
+      "score": ""
+    },
+    {
+      "id": "178",
+      "examid": "1",
+      "clazzid": "4",
+      "studentid": "36",
+      "gradeid": "1",
+      "courseid": "3",
+      "score": ""
+    },
+    {
+      "id": "179",
+      "examid": "1",
+      "clazzid": "4",
+      "studentid": "36",
+      "gradeid": "1",
+      "courseid": "4",
+      "score": ""
+    },
+    {
+      "id": "180",
+      "examid": "1",
+      "clazzid": "4",
+      "studentid": "36",
+      "gradeid": "1",
+      "courseid": "5",
+      "score": ""
+    },
+    {
+      "id": "181",
+      "examid": "1",
+      "clazzid": "4",
+      "studentid": "37",
+      "gradeid": "1",
+      "courseid": "1",
+      "score": ""
+    },
+    {
+      "id": "182",
+      "examid": "1",
+      "clazzid": "4",
+      "studentid": "37",
+      "gradeid": "1",
+      "courseid": "2",
+      "score": ""
+    },
+    {
+      "id": "183",
+      "examid": "1",
+      "clazzid": "4",
+      "studentid": "37",
+      "gradeid": "1",
+      "courseid": "3",
+      "score": ""
+    },
+    {
+      "id": "184",
+      "examid": "1",
+      "clazzid": "4",
+      "studentid": "37",
+      "gradeid": "1",
+      "courseid": "4",
+      "score": ""
+    },
+    {
+      "id": "185",
+      "examid": "1",
+      "clazzid": "4",
+      "studentid": "37",
+      "gradeid": "1",
+      "courseid": "5",
+      "score": ""
+    },
+    {
+      "id": "186",
+      "examid": "1",
+      "clazzid": "4",
+      "studentid": "38",
+      "gradeid": "1",
+      "courseid": "1",
+      "score": ""
+    },
+    {
+      "id": "187",
+      "examid": "1",
+      "clazzid": "4",
+      "studentid": "38",
+      "gradeid": "1",
+      "courseid": "2",
+      "score": ""
+    },
+    {
+      "id": "188",
+      "examid": "1",
+      "clazzid": "4",
+      "studentid": "38",
+      "gradeid": "1",
+      "courseid": "3",
+      "score": ""
+    },
+    {
+      "id": "189",
+      "examid": "1",
+      "clazzid": "4",
+      "studentid": "38",
+      "gradeid": "1",
+      "courseid": "4",
+      "score": ""
+    },
+    {
+      "id": "190",
+      "examid": "1",
+      "clazzid": "4",
+      "studentid": "38",
+      "gradeid": "1",
+      "courseid": "5",
+      "score": ""
+    },
+    {
+      "id": "191",
+      "examid": "1",
+      "clazzid": "4",
+      "studentid": "39",
+      "gradeid": "1",
+      "courseid": "1",
+      "score": ""
+    },
+    {
+      "id": "192",
+      "examid": "1",
+      "clazzid": "4",
+      "studentid": "39",
+      "gradeid": "1",
+      "courseid": "2",
+      "score": ""
+    },
+    {
+      "id": "193",
+      "examid": "1",
+      "clazzid": "4",
+      "studentid": "39",
+      "gradeid": "1",
+      "courseid": "3",
+      "score": ""
+    },
+    {
+      "id": "194",
+      "examid": "1",
+      "clazzid": "4",
+      "studentid": "39",
+      "gradeid": "1",
+      "courseid": "4",
+      "score": ""
+    },
+    {
+      "id": "195",
+      "examid": "1",
+      "clazzid": "4",
+      "studentid": "39",
+      "gradeid": "1",
+      "courseid": "5",
+      "score": ""
+    },
+    {
+      "id": "196",
+      "examid": "1",
+      "clazzid": "4",
+      "studentid": "40",
+      "gradeid": "1",
+      "courseid": "1",
+      "score": ""
+    },
+    {
+      "id": "197",
+      "examid": "1",
+      "clazzid": "4",
+      "studentid": "40",
+      "gradeid": "1",
+      "courseid": "2",
+      "score": ""
+    },
+    {
+      "id": "198",
+      "examid": "1",
+      "clazzid": "4",
+      "studentid": "40",
+      "gradeid": "1",
+      "courseid": "3",
+      "score": ""
+    },
+    {
+      "id": "199",
+      "examid": "1",
+      "clazzid": "4",
+      "studentid": "40",
+      "gradeid": "1",
+      "courseid": "4",
+      "score": ""
+    },
+    {
+      "id": "200",
+      "examid": "1",
+      "clazzid": "4",
+      "studentid": "40",
+      "gradeid": "1",
+      "courseid": "5",
+      "score": ""
+    },
+    {
+      "id": "201",
+      "examid": "1",
+      "clazzid": "4",
+      "studentid": "41",
+      "gradeid": "1",
+      "courseid": "1",
+      "score": ""
+    },
+    {
+      "id": "202",
+      "examid": "1",
+      "clazzid": "4",
+      "studentid": "41",
+      "gradeid": "1",
+      "courseid": "2",
+      "score": ""
+    },
+    {
+      "id": "203",
+      "examid": "1",
+      "clazzid": "4",
+      "studentid": "41",
+      "gradeid": "1",
+      "courseid": "3",
+      "score": ""
+    },
+    {
+      "id": "204",
+      "examid": "1",
+      "clazzid": "4",
+      "studentid": "41",
+      "gradeid": "1",
+      "courseid": "4",
+      "score": ""
+    },
+    {
+      "id": "205",
+      "examid": "1",
+      "clazzid": "4",
+      "studentid": "41",
+      "gradeid": "1",
+      "courseid": "5",
+      "score": ""
+    },
+    {
+      "id": "206",
+      "examid": "1",
+      "clazzid": "4",
+      "studentid": "42",
+      "gradeid": "1",
+      "courseid": "1",
+      "score": ""
+    },
+    {
+      "id": "207",
+      "examid": "1",
+      "clazzid": "4",
+      "studentid": "42",
+      "gradeid": "1",
+      "courseid": "2",
+      "score": ""
+    },
+    {
+      "id": "208",
+      "examid": "1",
+      "clazzid": "4",
+      "studentid": "42",
+      "gradeid": "1",
+      "courseid": "3",
+      "score": ""
+    },
+    {
+      "id": "209",
+      "examid": "1",
+      "clazzid": "4",
+      "studentid": "42",
+      "gradeid": "1",
+      "courseid": "4",
+      "score": ""
+    },
+    {
+      "id": "210",
+      "examid": "1",
+      "clazzid": "4",
+      "studentid": "42",
+      "gradeid": "1",
+      "courseid": "5",
+      "score": ""
+    },
+    {
+      "id": "211",
+      "examid": "2",
+      "clazzid": "1",
+      "studentid": "1",
+      "gradeid": "1",
+      "courseid": "1",
+      "score": "78"
+    },
+    {
+      "id": "212",
+      "examid": "2",
+      "clazzid": "1",
+      "studentid": "2",
+      "gradeid": "1",
+      "courseid": "1",
+      "score": "89"
+    },
+    {
+      "id": "213",
+      "examid": "2",
+      "clazzid": "1",
+      "studentid": "3",
+      "gradeid": "1",
+      "courseid": "1",
+      "score": "45"
+    },
+    {
+      "id": "214",
+      "examid": "2",
+      "clazzid": "1",
+      "studentid": "4",
+      "gradeid": "1",
+      "courseid": "1",
+      "score": "67"
+    },
+    {
+      "id": "215",
+      "examid": "2",
+      "clazzid": "1",
+      "studentid": "5",
+      "gradeid": "1",
+      "courseid": "1",
+      "score": "132"
+    },
+    {
+      "id": "216",
+      "examid": "2",
+      "clazzid": "1",
+      "studentid": "6",
+      "gradeid": "1",
+      "courseid": "1",
+      "score": "123"
+    },
+    {
+      "id": "217",
+      "examid": "2",
+      "clazzid": "1",
+      "studentid": "7",
+      "gradeid": "1",
+      "courseid": "1",
+      "score": "45"
+    },
+    {
+      "id": "218",
+      "examid": "2",
+      "clazzid": "1",
+      "studentid": "8",
+      "gradeid": "1",
+      "courseid": "1",
+      "score": "65"
+    },
+    {
+      "id": "219",
+      "examid": "2",
+      "clazzid": "1",
+      "studentid": "9",
+      "gradeid": "1",
+      "courseid": "1",
+      "score": "78"
+    },
+    {
+      "id": "220",
+      "examid": "2",
+      "clazzid": "1",
+      "studentid": "10",
+      "gradeid": "1",
+      "courseid": "1",
+      "score": "144"
+    },
+    {
+      "id": "221",
+      "examid": "2",
+      "clazzid": "1",
+      "studentid": "11",
+      "gradeid": "1",
+      "courseid": "1",
+      "score": "44"
+    },
+    {
+      "id": "222",
+      "examid": "2",
+      "clazzid": "1",
+      "studentid": "12",
+      "gradeid": "1",
+      "courseid": "1",
+      "score": "65"
+    },
+    {
+      "id": "223",
+      "examid": "2",
+      "clazzid": "1",
+      "studentid": "13",
+      "gradeid": "1",
+      "courseid": "1",
+      "score": "87"
+    }
+  ]
+}
